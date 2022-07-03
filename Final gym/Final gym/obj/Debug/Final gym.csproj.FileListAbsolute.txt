@@ -1,0 +1,13 @@
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\bin\Debug\Final gym.exe.config
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\bin\Debug\Final gym.exe
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\bin\Debug\Final gym.pdb
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\bin\Debug\Guna.UI2.dll
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final gym.csproj.AssemblyReference.cache
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final gym.csproj.SuggestedBindingRedirects.cache
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final_gym.Login.resources
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final_gym.Properties.Resources.resources
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final gym.csproj.GenerateResource.cache
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final gym.csproj.CoreCompileInputs.cache
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final gym.csproj.CopyComplete
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final gym.exe
+C:\Users\roei6\Desktop\Final Project\finel-project\Final gym\Final gym\obj\Debug\Final gym.pdb
