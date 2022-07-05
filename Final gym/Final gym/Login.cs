@@ -17,9 +17,9 @@ namespace Final_gym
             InitializeComponent();
         }
 
-        private void guna2Shapes1_Click(object sender, EventArgs e)
+        private void txtBoxEmail_TextChanged(object sender, EventArgs e)
         {
-
+            txtBoxEmail.Clear();
         }
     }
 }
